@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="Client.Pages.Offer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             Loaded="Offer_OnLoaded"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid Style="{StaticResource ContentRoot}">
+        <ScrollViewer>
+            <Grid Style="{StaticResource ContentRoot}" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="200" />
+                </Grid.ColumnDefinitions>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="0" Grid.Column="0" Content="Title:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="1" Grid.Column="0" Content="Description:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="2" Grid.Column="0" Content="Category:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="3" Grid.Column="0" Content="Location:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="4" Grid.Column="0" Content="Contact:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="5" Grid.Column="0" Content="Start:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="6" Grid.Column="0" Content="End:"/>
+                <Label FontWeight="Bold" Margin="3" Grid.Row="7" Grid.Column="0" Content="Date added:"/>
+
+                <Label Name="Title" Margin="3" Grid.Row="0" Grid.Column="1" Content=""/>
+                <Label Name="Description" Margin="3" Grid.Row="1" Grid.Column="1" Content=""/>
+                <Label Name="Category" Margin="3" Grid.Row="2" Grid.Column="1" Content=""/>
+                <Label Name="Location" Margin="3" Grid.Row="3" Grid.Column="1" Content=""/>
+                <Label Name="Contact" Margin="3" Grid.Row="4" Grid.Column="1" Content=""/>
+                <Label Name="StartTime" Margin="3" Grid.Row="5" Grid.Column="1" Content=""/>
+                <Label  Name="EndTime" Margin="3" Grid.Row="6" Grid.Column="1" Content=""/>
+                <Label Name="Date" Margin="3" Grid.Row="7" Grid.Column="1" Content=""/>
+                <Button  x:Name="applyToOfferBtn" Click="ApplyToOfferBtn_OnClick"  Grid.Column="1" Grid.Row="8" HorizontalAlignment="Right" 
+            MinWidth="90" MinHeight="30" Margin="0,3,3,0" Content="Apply"  />
+                <Button  x:Name="backToCategory"  Grid.Column="1" Grid.Row="8" HorizontalAlignment="Left" 
+            MinWidth="90" MinHeight="30" Margin="0,3,3,0" Content="Back" Click="backToCategory_Click"  />
+
+            </Grid>
+            <!--<StackPanel MinWidth="200">
+                <TextBlock Text="siia bindib offeri nime" Style="{StaticResource Heading2}" />
+                <TextBlock Text="siia descriptioni" />
+                <TextBlock Text="ningmuud andmed" />
+                <Button Content="Kandideeri"></Button>
+            </StackPanel>-->
+        </ScrollViewer>
+    </Grid>
+</UserControl>

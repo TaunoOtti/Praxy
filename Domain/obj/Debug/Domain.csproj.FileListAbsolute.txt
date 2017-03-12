@@ -1,0 +1,28 @@
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Domain.dll.config
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\obj\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\Domain\obj\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Domain.dll.config
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\obj\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\Domain\obj\Debug\Domain.pdb

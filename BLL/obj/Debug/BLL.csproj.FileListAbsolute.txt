@@ -1,0 +1,50 @@
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\BLL.dll.config
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\BLL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\BLL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\obj\Debug\BLL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\obj\Debug\BLL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\DAL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\DAL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\BLL.dll.config
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\BLL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\DAL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\obj\Debug\BLL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\BLL\obj\Debug\BLL.pdb

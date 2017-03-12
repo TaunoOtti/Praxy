@@ -1,0 +1,62 @@
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\DAL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\DAL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\obj\Debug\DAL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\obj\Debug\DAL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\obj\Debug\DAL.Migrations.init.resources
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\DAL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Domain.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Owin.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Domain.pdb
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\obj\Debug\DAL.Migrations.init.resources
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\obj\Debug\DAL.dll
+C:\Users\Tauno\Documents\Visual Studio 2015\Projects\Praxy - Copy\DAL\obj\Debug\DAL.pdb
